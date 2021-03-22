@@ -11,7 +11,7 @@
         "https://www.corsair.com/medias/sys_master/images/images/h52/hf0/9112742363166/-CP-9020188-NA-Gallery-RMx-White-850-01.png"
       ],
       "price": "130",
-      "energy": ""
+      "energy": 0
     },
     {
       "id": 2,
@@ -24,7 +24,7 @@
         "https://www.corsair.com/medias/sys_master/images/images/h0d/h50/9112047452190/-CP-9020179-NA-Gallery-RM750x-PSU-01.png"
       ],
       "price": "100",
-      "energy": ""
+      "energy": 0
     },
     {
       "id": 3,
@@ -37,7 +37,7 @@
         "https://www.corsair.com/medias/sys_master/images/images/hbb/h40/9188934090782/-CP-9020172-NA-Gallery-VS650-PSU-01.png"
       ],
       "price": "70",
-      "energy": ""
+      "energy": 0
     }
   ]
 }
